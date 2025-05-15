@@ -1,0 +1,54 @@
+Food-Delivery-App-MVP/Case_Study.pdf
+Product Development and Launch Execution.
+1. What A/B do you suggest to make it easier to find friends on Facebook?
+2. Design a user research questionnaire you would ask users for your food delivery app?
+Instruction:
+This assignment consists of two parts. You are required to complete once case study from each section:
+1. MVP Scoping: Choose any one of the two given scenarios.
+2. Product Development and launch Execution: Attempt any one of the two given scenarios.
+SECTION 1: MVP Scoping
+Selected Case Study: Define a MVP of a Food Delivery App
+Objective:
+To define the Minimum Viable Product (MVP) of a food delivery app that solves the core problem — helping users order
+food from nearby restaurants quickly and reliably.
+Key Features — Included in MVP:
+Feature Why It’s In MVP
+User Login/Signup Needed to personalize experience, manage orders, and secure payments.
+Restaurant Listing Core to the app enables users to browse options based on location/cuisine.
+Menu View Users need to explore dishes before ordering.
+Cart & Checkout Essential transaction flow. Enables order placement.
+Payment Gateway (UPI/Cards) Basic digital payment options needed for a seamless order experience.
+Order Tracking (Basic) Builds user trust by showing real-time updates after payment.
+Order History Useful for quick reordering and support queries.
+Excluded from MVP:
+Feature Why It's Not in MVP
+Loyalty/Reward Points Useful for retention, but not critical for early traction.
+Referral Program Good for growth, can come post-product-market fit.
+Live Chat/Support Bot Start with email/help form, scale support later.
+Feature Why It's Not in MVP
+AI-Based Recommendations Adds complexity; best post-launch when user data exists.
+Scheduled Deliveries More of a power-user feature, not needed in v1.
+Focus:
+Keep it simple, fast, and functional — let users browse, order, and receive food without any friction. Build loyalty and
+growth features after validating core behaviour.
+SECTION 2: Product Development and Launch Execution
+Selected Case Study: A/B Test for Finding Friends on Facebook
+Problem:
+Users find it hard to discover and connect with friends after signing up.
+A/B Test Ideas to Improve Friend Discovery:
+1. Test 1: Contact Sync Prompt Timing
+ A: Show contact sync prompt immediately after signup.
+ B: Delay it until after profile setup and photo upload.
+ Goal: See which timing leads to more friend connections.
+2. Test 2: Mutual Friends Suggestion Format
+ A: Show basic name + profile picture
+ B: Show name, profile pic, mutual friends count, and common interests
+ Goal: Measure click-through and add-friend conversion.
+3. Test 3: Suggested Friends Placement
+ A: Keep friend suggestions on the homepage
+ B: Move them into a dedicated tab ("People You May Know")
+ Goal: See which placement increases engagement and connections.
+4. Test 4: Incentive-based Additions
+ A: Normal friend suggestion
+ B: Add “Add 5 friends to unlock profile themes”
+ Goal: See if gamification improves discovery and retention
